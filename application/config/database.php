@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'db_absensi2014';
+$db['default']['hostname'] = 'dbsosmedia.cjorhe5jzkni.us-east-2.rds.amazonaws.com';
+$db['default']['username'] = 'admin';
+$db['default']['password'] = 'farman17';
+$db['default']['database'] = 'absensi';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
